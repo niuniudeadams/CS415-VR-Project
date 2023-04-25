@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/kuoj2/Documents/Unreal Projects/MyProject3/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/kuoj2/Documents/Unreal Projects/MyProject3/Content/Blueprint/Grabbable_SmallCube.uasset",
+				"C:/Users/kuoj2/Documents/Unreal Projects/MyProject3/Content/Blueprint/Katana2.uasset",
+				"C:/Users/kuoj2/Documents/Unreal Projects/MyProject3/Content/Blueprint/Score.uasset",
+				"C:/Users/kuoj2/Documents/Unreal Projects/MyProject3/Content/Blueprint/fruit01_2.uasset",
+				"C:/Users/kuoj2/Documents/Unreal Projects/MyProject3/Content/Assets/Orange/Orange.uasset",
+				"C:/Users/kuoj2/Documents/Unreal Projects/MyProject3/Content/Blueprint/Launcher.uasset",
+				"C:/Users/kuoj2/Documents/Unreal Projects/MyProject3/Content/Blueprint/Launcher_2.uasset",
+				"C:/Users/kuoj2/Documents/Unreal Projects/MyProject3/Content/Blueprint/fruit01_3.uasset",
+				"C:/Users/kuoj2/Documents/Unreal Projects/MyProject3/Content/Blueprint/HealthBar.uasset",
+				"C:/Users/kuoj2/Documents/Unreal Projects/MyProject3/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/kuoj2/Documents/Unreal Projects/MyProject3/Content/Blueprint/fruit01.uasset"
+			]
+		}
+	]
+}
